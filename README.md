@@ -48,7 +48,11 @@ The **Tableau Story** feature is used to build a clear **narrative flow**:
 ✨ Identified top-performing categories & regions  
 ✨ Found seasonal sales trends & growth opportunities  
 ✨ Highlighted underperforming customer segments  
-✨ Suggested data-driven st
+✨ Suggested data-driven 
+
+DASHBOARD
+
+<img width="1919" height="990" alt="Image" src="https://github.com/user-attachments/assets/85694ab8-3674-4422-b8cb-aa0c70a1b597" />
 
 
 
