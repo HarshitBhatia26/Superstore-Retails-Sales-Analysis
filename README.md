@@ -49,6 +49,14 @@ The **Tableau Story** feature is used to build a clear **narrative flow**:
 ✨ Found seasonal sales trends & growth opportunities  
 ✨ Highlighted underperforming customer segments  
 ✨ Suggested data-driven 
+---
+
+## 🏆 Author  
+👤 **[Harshit Bhatia]**  
+📧 Contact: harshitbhatia2612@gmail.com  
+🌐 GitHub: [HarshitBhatia26](https://github.com/HarshitBhatia26)  
+
+---
 
 DASHBOARD
 
