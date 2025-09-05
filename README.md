@@ -69,12 +69,14 @@ Story 1-
 
 Store 2-
 
-<img width="1919" height="996" alt="Image" src="https://github.com/user-attachments/assets/259f3b13-344f-4bcd-89af-a7ff5bb3e6d1" />
-
-Story 3-
 <img width="1917" height="1000" alt="Image" src="https://github.com/user-attachments/assets/b98c3dc2-401a-4036-b4ce-265980366b91" />
 
+Story 3-
+
+<img width="1919" height="996" alt="Image" src="https://github.com/user-attachments/assets/259f3b13-344f-4bcd-89af-a7ff5bb3e6d1" />
+
 Story 4-
+
 <img width="1913" height="996" alt="Image" src="https://github.com/user-attachments/assets/30f921db-ec72-4600-b831-565b9bffda5a" />
 
 
