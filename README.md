@@ -62,5 +62,12 @@ DASHBOARD
 
 <img width="1919" height="990" alt="Image" src="https://github.com/user-attachments/assets/85694ab8-3674-4422-b8cb-aa0c70a1b597" />
 
+Story 1- 
+
+<img width="1912" height="992" alt="Image" src="https://github.com/user-attachments/assets/1d6bbdb9-1e88-4a72-8abb-b700aaedc0c3" />
+
+Store 2-
+
+
 
 
